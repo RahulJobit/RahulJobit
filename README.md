@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Own website**
 
-- 🌱 I’m currently learning **MERN stack, flutter, Ethical Hacking, php ,python.**
+- 🌱 I’m currently learning **MERN stack, flutter, Ethical Hacking, C ,python.**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
