@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/jobitrahul" target="blank"><img src="https://img.shields.io/twitter/follow/jobitrahul?logo=twitter&style=for-the-badge" alt="jobitrahul" /></a> </p>
 
-- 🔭 I’m currently working on **Own website**
+- 🔭 I’m currently working as a **freelancer**
 
-- 🌱 I’m currently learning **MERN stack, flutter, Ethical Hacking, C ,python.**
+- 🌱 I’m currently learning **UI/UX Design, Web Design, Flutter, Ethical Hacking, C ,python.**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
