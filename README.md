@@ -7,15 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/jobitrahul" target="blank"><img src="https://img.shields.io/twitter/follow/jobitrahul?logo=twitter&style=for-the-badge" alt="jobitrahul" /></a> </p>
 
-- 🔭 I’m currently working as a **freelancer**
+🔭 Currently working as a **Freelance UI/UX Designer**
 
-- 🌱 I’m currently learning **UI/UX Design, Web Design, Flutter, Ethical Hacking, C ,python.**
+🌱 Learning **Python, Django, Linux, DevOps (Docker, CI/CD), and Cybersecurity**
 
-- 👯 I’m looking to collaborate on **Open Source Project**
+👯 Open to collaborating on **Open Source Projects**
 
-- 💬 Ask me about **Web designing, UI & UX designing, front-end.**
+💬 Ask me about **UI/UX Design, Web Design, Frontend, and Git**
 
-- 📫 How to reach me **rahuljobittelma007@gmail.com**
+📫 Contact: **[rahuljobittelma007@gmail.com](mailto:rahuljobittelma007@gmail.com)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
