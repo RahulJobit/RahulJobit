@@ -1,4 +1,4 @@
-![MasterHead](http://www.lovelocaldesign.com/wp-content/uploads/2016/09/process-dev-banner2.gif)
+<img src="https://github.com/RahulJobit/RahulJobit/blob/main/mybanner.png" width="100%">
 <h1 align="center">Hi 👋, I'm Rahul Jobit</h1>
 <h3 align="center">A passionate Software Developer and Ethical Hacker from India</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/F-Hiz_YBVXwAAAAC/bibeknaik-busy.gif">
